@@ -1,16 +1,16 @@
-import XCTest
-@testable import CorePlot
-
-final class CorePlotTests: XCTestCase {
-    func testExample() {
-		let text = "Hello, World!"
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(text, "Hello, World!")
-    }
-
-    static var allTests = [
-        ("testExample", testExample),
-    ]
-}
+//import XCTest
+//@testable import CorePlot
+//
+//final class CorePlotTests: XCTestCase {
+//    func testExample() {
+//		let text = "Hello, World!"
+//        // This is an example of a functional test case.
+//        // Use XCTAssert and related functions to verify your tests produce the correct
+//        // results.
+//        XCTAssertEqual(text, "Hello, World!")
+//    }
+//
+//    static var allTests = [
+//        ("testExample", testExample),
+//    ]
+//}

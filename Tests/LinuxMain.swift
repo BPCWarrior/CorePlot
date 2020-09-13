@@ -1,7 +1,7 @@
-import XCTest
-
-import CorePlotTests
-
-var tests = [XCTestCaseEntry]()
-tests += CorePlotTests.allTests()
-XCTMain(tests)
+//import XCTest
+//
+//import CorePlotTests
+//
+//var tests = [XCTestCaseEntry]()
+//tests += CorePlotTests.allTests()
+//XCTMain(tests)
